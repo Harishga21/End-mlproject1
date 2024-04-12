@@ -1,5 +1,5 @@
-create a folder 
-create a git hub repo
+1.create a folder 
+2.create a git hub repo
 clone in that folder using #https link
 move one folder inside cd End-mlproject1
 create template.py
